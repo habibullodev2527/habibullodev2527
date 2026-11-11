@@ -94,12 +94,18 @@ Analytical Thinking · Problem Solving · Critical Thinking · Data-driven Decis
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=habibullodev2527&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibullodev2527&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=habibullodev2527&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibullodev2527&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibullodev2527&theme=tokyonight" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=habibullodev2527&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullodev2527&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true" />
+
 </div>
 
 ---
